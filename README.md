@@ -1,2 +1,2 @@
-# Next JS Practice
+# NEXT-JS-TEMPLATE
  
